@@ -1,15 +1,11 @@
 # Elevate-labs-task-2
 # Cyber Security Internship - Task 2  
----
 
 ## Objective  
 Identify phishing characteristics in a suspicious email sample.
 
----
-
 ## Tools Used  
 - Email client or saved email file (text), free online header analyzer.
----
 
 ## Steps Performed 
 1. **Obtained a Sample Phishing Email**  
@@ -24,6 +20,9 @@ Identify phishing characteristics in a suspicious email sample.
 4. **Summarized Phishing Traits Found**  
    - Compiled all suspicious indicators detected during analysis.
   
+
+
+
 
 
 
